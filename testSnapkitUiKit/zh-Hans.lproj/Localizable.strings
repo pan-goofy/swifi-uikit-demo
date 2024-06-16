@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  testSnapkitUiKit
+
+  Created by user on 2024/6/15.
+  
+*/
+ErrorNetworkNukownHost = "找不到服务器";
